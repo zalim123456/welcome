@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Polemikal Voice System",
+        "GUILD_ID": "790198362007142400",
+        "VOICE_CHANNEL": "790198362166001689",
+        "MIN_STAFF_ROLE": "790198362049216533"
+    },
+    "FILES": {
+        "WELCOME": "https://cdn.glitch.com/c47785fe-dc77-4793-89d8-da21a884fe0f%2Fvelcome%20sesi.mp3?v=1610373484742",
+        "STAFF": "default_files/<staff-voice>.mp3"
+    },
+    "TOKEN": "Nzk4MTg0ODE2NTgzNTA3OTk4.X_xViQ.pJZdeucbNz35Eyn_coEtjSpLkh8"
+}
